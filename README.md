@@ -1,4 +1,4 @@
-# Barkour
+# BARKOUR
 
 MuJoCo robotics experiments with the Unitree Go1.
 
